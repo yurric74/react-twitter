@@ -16,3 +16,7 @@ router.get('/', (req, res) => {
 
 // Експортуємо глобальний роутер
 module.exports = router
+
+
+
+
